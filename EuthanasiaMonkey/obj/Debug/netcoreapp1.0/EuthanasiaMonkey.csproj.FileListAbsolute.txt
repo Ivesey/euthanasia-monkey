@@ -1,0 +1,16 @@
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\bin\Debug\netcoreapp1.0\EuthanasiaMonkey.deps.json
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\bin\Debug\netcoreapp1.0\EuthanasiaMonkey.dll
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\bin\Debug\netcoreapp1.0\EuthanasiaMonkey.pdb
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.AssemblyInfo.cs
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.dll
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.pdb
+C:\Users\Daniel\Source\Repos\voicestuff\CFnStackManager\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\bin\Debug\netcoreapp1.0\EuthanasiaMonkey.deps.json
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\bin\Debug\netcoreapp1.0\EuthanasiaMonkey.dll
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\bin\Debug\netcoreapp1.0\EuthanasiaMonkey.pdb
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.AssemblyInfo.cs
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.dll
+C:\Users\Daniel\Source\Repos\euthanasia-monkey\EuthanasiaMonkey\obj\Debug\netcoreapp1.0\EuthanasiaMonkey.pdb

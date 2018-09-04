@@ -1,0 +1,179 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "43e4637131d0b5d4b0d0484e4d1f7b21af8d5342"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "EuthanasiaMonkey/1.0.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "1.0.0",
+          "Amazon.Lambda.Serialization.Json": "1.0.1",
+          "AWSSDK.EC2": "3.3.11.3"
+        },
+        "runtime": {
+          "EuthanasiaMonkey.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard1.3/Amazon.Lambda.Core.dll": {}
+        }
+      },
+      "Amazon.Lambda.Serialization.Json/1.0.1": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "1.0.0",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Amazon.Lambda.Serialization.Json.dll": {}
+        }
+      },
+      "Amazon.Lambda.Tools/1.3.0-preview1": {
+        "dependencies": {
+          "AWSSDK.CloudFormation": "3.3.3",
+          "AWSSDK.IdentityManagement": "3.3.0.3",
+          "AWSSDK.Lambda": "3.3.2",
+          "AWSSDK.S3": "3.3.4"
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/dotnet-lambda.dll": {}
+        }
+      },
+      "AWSSDK.CloudFormation/3.3.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.10.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.CloudFormation.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.10.1": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.EC2/3.3.11.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.10.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.EC2.dll": {}
+        }
+      },
+      "AWSSDK.IdentityManagement/3.3.0.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.10.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.IdentityManagement.dll": {}
+        }
+      },
+      "AWSSDK.Lambda/3.3.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.10.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.Lambda.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.3.4": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.10.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.S3.dll": {}
+        }
+      },
+      "Newtonsoft.Json/9.0.1": {
+        "dependencies": {
+          "System.Runtime.Serialization.Primitives": "4.1.1"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.Collections.NonGeneric/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
+        }
+      },
+      "System.Runtime.Serialization.Primitives/4.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EuthanasiaMonkey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+pBYGHaOaDAhu2j8BA5MhKLwxZM7lgmTSroGyCzEqWMBx+uc+QtpED2ShCAkKjKeedXH+LvJpQAUkEtW7rfcgQ=="
+    },
+    "Amazon.Lambda.Serialization.Json/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5kO/u38+UOUQuNU+8rQpi1cPYUtlT9DMmVnohsj0jIlPjDwhZMXtOxCx8BEosRTAcQIU8AcgchqCYQa5Wm8n8g=="
+    },
+    "Amazon.Lambda.Tools/1.3.0-preview1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KQ1XoyXkZI3W7wHv5tR1gRs3DCX8V1TqpJB+oblLAshF/XjMP5Gkl+sqmZYNVahOC9BjAQ6kzvHE/u2tO3bSAw=="
+    },
+    "AWSSDK.CloudFormation/3.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JgYlheiokoM7KKdLi0OQftnUChmwm6x2oAaSq6RdyRwTh1RGv+9Znbspbj457FgEKH0a33c7GSTHn8TDACaeAA=="
+    },
+    "AWSSDK.Core/3.3.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-coEWmP6qeiLoz2LD4WJxiXIAVD2z2Mv8o8NhzCwhQNTaEjJlj69pUwUU9mM+1AoM2RlyGzSrpXfn7L12IAwVEw=="
+    },
+    "AWSSDK.EC2/3.3.11.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-px/MpH7tYfvVcAVinZ/Owj31PFGDbr6qAjMan0SjDEclLz08jMupCdxmijWXRBpejSKAfwR6xBTLZPx4I02uxQ=="
+    },
+    "AWSSDK.IdentityManagement/3.3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GdJMPqNY8ioO5oOpNWAxBMAzNfN//49iEHCiIYlnhh8KNN4YJye62A6DP4SMypJMFajlaz3CBop+8RH38ShdUw=="
+    },
+    "AWSSDK.Lambda/3.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2ygNYXSnqcAvnOtQ8moK/mLvc95+DGt0aUPLDLQkpiFPsxNW+WuDMg8UHzQCYBp8kcFWIzROpJJEfQ2bJdEAug=="
+    },
+    "AWSSDK.S3/3.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Bs6F+mpNlQN85PP/J7zjcxx9HLRxR+OrmI+g/BdfuPmV0qoks0qK3esxSURVeuhz8dDsr8O0OFd9A3GpzVqakA=="
+    },
+    "Newtonsoft.Json/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw=="
+    },
+    "System.Collections.NonGeneric/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA=="
+    },
+    "System.Runtime.Serialization.Primitives/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg=="
+    }
+  }
+}
